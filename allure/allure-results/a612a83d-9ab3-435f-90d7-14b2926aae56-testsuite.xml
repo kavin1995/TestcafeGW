@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1693799359870' stop='1693799359870'>
+    <name>Rewrite Policy After Cancellation for LOB: personal auto</name>
+    <title>Rewrite Policy After Cancellation for LOB: personal auto</title>
+    <test-cases>
+        <test-case start='1693799359870' status='passed' stop='1693799370349'>
+            <name>Rewrite Policy</name>
+            <title>Rewrite Policy</title>
+            <labels>
+                <label name='severity' value='undefined'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='User Agent' value='Chrome 116.0.0.0 / Windows 10'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test has been passed.</message>
+                <stack-trace>no error</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

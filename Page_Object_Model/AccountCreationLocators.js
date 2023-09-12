@@ -1,0 +1,27 @@
+module.exports = {
+    userName: '[id="Login:LoginScreen:LoginDV:username-inputEl"]',
+    passWord: '[id="Login:LoginScreen:LoginDV:password-inputEl"]',
+    clickSubmitBtn: '[id="Login:LoginScreen:LoginDV:submit-btnInnerEl"]',
+    clickActionsTab: '[id="Desktop:DesktopMenuActions-btnEl"]',
+    clickNewAccountBtn: '[id="Desktop:DesktopMenuActions:DesktopMenuActions_Create:DesktopMenuActions_NewAccount-textEl"]',
+    clickCompanyName: '[id="NewAccount:NewAccountScreen:NewAccountSearchDV:GlobalContactNameInputSet:Name-inputEl"]',
+    clickSearchButton: '[id="NewAccount:NewAccountScreen:NewAccountSearchDV:SearchAndResetInputSet:SearchLinksInputSet:Search"]',
+    clickCreateNewAccountBtn: '[id="NewAccount\:NewAccountScreen\:NewAccountButton-btnInnerEl"]',
+    clickPerson: '[id="NewAccount:NewAccountScreen:NewAccountButton:NewAccount_Person-itemEl"]',
+    clickUpdateBtn: '[id="CreateAccount:CreateAccountScreen:Update-btnInnerEl"]',
+    typeFirstName: '[id="CreateAccount:CreateAccountScreen:CreateAccountDV:CreateAccountContactInputSet:GlobalPersonNameInputSet:FirstName-inputEl"]',
+    typeLastName: '[id="CreateAccount:CreateAccountScreen:CreateAccountDV:CreateAccountContactInputSet:GlobalPersonNameInputSet:LastName-inputEl"]',
+    typeAddress: '[id="CreateAccount:CreateAccountScreen:CreateAccountDV:AddressInputSet:globalAddressContainer:GlobalAddressInputSet:AddressLine1-inputEl"]',
+    typeCity: '[id="CreateAccount:CreateAccountScreen:CreateAccountDV:AddressInputSet:globalAddressContainer:GlobalAddressInputSet:City-inputEl"]',
+    clickState: '[id="CreateAccount:CreateAccountScreen:CreateAccountDV:AddressInputSet:globalAddressContainer:GlobalAddressInputSet:State-inputEl"]',
+    typeZipCode: '[id="CreateAccount:CreateAccountScreen:CreateAccountDV:AddressInputSet:globalAddressContainer:GlobalAddressInputSet:PostalCode-inputEl"]',
+    clickAdressType: '[id="CreateAccount:CreateAccountScreen:CreateAccountDV:AddressType-inputEl"]',
+    clickSearchBtn: '[id="CreateAccount:CreateAccountScreen:CreateAccountDV:ProducerSelectionInputSet:Producer:SelectOrganization"]',
+    typeIntoSearch: '[id="OrganizationSearchPopup:OrganizationSearchPopupScreen:OrganizationSearchDV:GlobalContactNameInputSet:Name-inputEl"]',
+    clickSearch: '[class="bigButton"]',
+    clickSelectBtn: '[id="OrganizationSearchPopup:OrganizationSearchPopupScreen:OrganizationSearchResultsLV:0:_Select"]',
+    clickProducerCode: '[id="CreateAccount:CreateAccountScreen:CreateAccountDV:ProducerSelectionInputSet:ProducerCode-inputEl"]',
+    getAccountNumber: '[id="AccountFile_Summary\:AccountFile_SummaryScreen\:AccountFile_Summary_BasicInfoDV\:AccountNumber-inputEl"]',
+    //
+
+ }

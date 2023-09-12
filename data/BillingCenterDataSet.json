@@ -1,0 +1,19 @@
+[
+{
+    "BC_Login_username":"su",
+    "BC_Login_password":"gw",
+    "BC_policynumber": "2010792490-2",
+    "BC_effectivedate": "08/10/2023",
+    "BC_expirationdate": "08/10/2024",
+    "BC_Accountno":"1000000380",
+    "BC_Accountname":"Test QWERTYTT",
+    "BC_No_of_Transactions":"4",
+    "BC_Requestamount":"19",
+    "BC_amount": "$19.00",
+    "BC_Paymentmethod":"ACH/EFT",
+    "BC_change_Effectivedate":"08/29/2024",
+    "BC_DB_amount":"10"
+    
+}
+
+]

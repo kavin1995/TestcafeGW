@@ -1,0 +1,25 @@
+[{
+    "Login_username": "exp_test",
+    "Login_password": "exp_test",
+    "Effectivedate" : "09/29/2024",
+    "MedicalPaymentCoverageLimit" : "5,000",
+    "ActualResult" : "Policy Change Bound"
+    
+},
+{
+    "Login_username": "exp_test",
+    "Login_password": "exp_test",
+    "Effectivedate" : "09/29/2024",
+    "MedicalPaymentCoverageLimit" : "10,000",
+    "ActualResult" : "Policy Change Bound"
+    
+},
+{
+    "Login_username": "exp_test",
+    "Login_password": "exp_test",
+    "Effectivedate" : "09/29/2024",
+    "MedicalPaymentCoverageLimit" : "15,000",
+    "ActualResult" : "Policy Change Bound"
+    
+}
+]

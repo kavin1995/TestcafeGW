@@ -1,0 +1,17 @@
+[{
+    "Login_username": "exp_test",
+    "Login_password": "exp_test",
+    "Expected Result": "My Activities"
+},
+{
+    "Login_username": "Exp",
+    "Login_password": "exp_test",
+    "Expected Result": "The submitted user name/password is invalid."
+    
+},
+{
+    "Login_username": "exp_test",
+    "Login_password": "exp",
+    "Expected Result": "The submitted user name/password is invalid."
+}
+]

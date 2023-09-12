@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1689628236650' stop='1689628236651'>
+    <name>Personal Account Creation</name>
+    <title>Personal Account Creation</title>
+    <test-cases>
+        <test-case start='1689628236650' status='passed' stop='1689628261577'>
+            <name>Creating personal account for user:'John,Rose' </name>
+            <title>Creating personal account for user:'John,Rose' </title>
+            <labels>
+                <label name='severity' value='undefined'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='User Agent' value='Chrome 114.0.0.0 / Windows 10'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test has been passed.</message>
+                <stack-trace>no error</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,29 @@
+{
+  "name": "testcafe_guidewire",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".test.js",
+  "scripts": {
+    "test:reports": "testcafe chrome main.js --reporter allure",
+    "test:Billingcenter": "testcafe chrome utils/BC_main.js",
+    "test:Policycenter": "testcafe chrome utils/PC_main.js",
+    "test:Billingcenter:reports": "testcafe chrome utils/BC_main.js --reporter allure",
+    "test:Policycenter:reports": "testcafe chrome utils/PC_main.js --reporter allure"
+  },
+  "author": "Naresh Chakravarthi",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^9.2.0",
+    "gherkin-testcafe": "^7.0.0",
+    "testcafe": "^2.6.2",
+    "testcafe-cucumber-steps": "^1.20.2"
+  },
+  "dependencies": {
+    "cucumber": "^6.0.7",
+    "exceljs": "^4.3.0",
+    "node-xlsx": "^0.23.0",
+    "testcafe-reporter-allure": "^1.0.5",
+    "testcafe-reporter-html": "^1.4.6",
+    "xlsx": "^0.18.5"
+  }
+}

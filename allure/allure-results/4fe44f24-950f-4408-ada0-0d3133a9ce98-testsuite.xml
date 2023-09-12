@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1691987176502' stop='1691987176503'>
+    <name>Policy number verification in Billing center</name>
+    <title>Policy number verification in Billing center</title>
+    <test-cases>
+        <test-case start='1691987176502' status='passed' stop='1691987191397'>
+            <name>Verifying policy number '2010792490-2' in billing center</name>
+            <title>Verifying policy number '2010792490-2' in billing center</title>
+            <labels>
+                <label name='severity' value='undefined'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='User Agent' value='Chrome 115.0.0.0 / Windows 10'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test has been passed.</message>
+                <stack-trace>no error</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
